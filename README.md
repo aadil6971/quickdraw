@@ -4,6 +4,8 @@
 
 A tiny native Mac menu-bar app for drawing arrows and boxes over your screen.
 
+![QuickDraw demo: drawing arrows and boxes over a GitHub page](Assets/quickdraw-demo.gif)
+
 ## Install
 
 Requires macOS 13 or later. Universal app for Apple Silicon and Intel.
